@@ -1,0 +1,5 @@
+*.py[co]
+docvqa_zh/
+.idea/
+__pycache__/
+output/
